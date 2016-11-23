@@ -29,7 +29,7 @@ class CatProductsDS extends CommonDS
                 'delete' => true,
             ),
             "unit" => array(
-                "load" > true,
+                "load" => true,
             )
         );
     }

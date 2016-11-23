@@ -29,24 +29,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="dashboard.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/page/dashboard.php">
+      <file leaf-file-name="CatProductsDS.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/ds/CatProductsDS.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-8.384615">
-              <caret line="96" column="39" selection-start-line="96" selection-start-column="37" selection-end-line="96" selection-end-column="39" />
-              <folding />
+            <state vertical-scroll-proportion="0.33333334">
+              <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+              <folding>
+                <marker date="1479747264982" expanded="true" signature="1052:1098" placeholder="update ${$th..." />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.php">
+      <file leaf-file-name="SubCatProductsDS.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/ds/SubCatProductsDS.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.36515912">
-              <caret line="188" column="58" selection-start-line="188" selection-start-column="50" selection-end-line="188" selection-end-column="58" />
-              <folding>
-                <element signature="e#9562#9582#0#HTML" expanded="true" />
-              </folding>
+            <state vertical-scroll-proportion="-7.1153846">
+              <caret line="33" column="24" selection-start-line="33" selection-start-column="24" selection-end-line="33" selection-end-column="24" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -91,8 +91,6 @@
         <option value="$PROJECT_DIR$/app/page/units.php" />
         <option value="$PROJECT_DIR$/app/page/catproducts.php" />
         <option value="$PROJECT_DIR$/app/page/subcatproducts.php" />
-        <option value="$PROJECT_DIR$/app/ds/CatProductsDS.php" />
-        <option value="$PROJECT_DIR$/app/ds/SubCatProductsDS.php" />
         <option value="$PROJECT_DIR$/app/page/myprice.php" />
         <option value="$PROJECT_DIR$/_comp/HOT_SINGLE/hot-single.html" />
         <option value="$PROJECT_DIR$/app/page/repsubcat.php" />
@@ -107,6 +105,8 @@
         <option value="$PROJECT_DIR$/app/page/_auth/login.php" />
         <option value="$PROJECT_DIR$/app/page/dashboard.php" />
         <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/app/ds/CatProductsDS.php" />
+        <option value="$PROJECT_DIR$/app/ds/SubCatProductsDS.php" />
       </list>
     </option>
   </component>
@@ -223,7 +223,33 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="_libs" />
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ds" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bslamongan" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bslamongan" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ds" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="common" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -310,17 +336,17 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32979593" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32872504" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24979591" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" x="574" y="142" width="306" height="481" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3686636" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3686636" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -343,7 +369,7 @@
           <option name="timeStamp" value="55" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="102" />
+      <option name="time" value="105" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="index.php">
@@ -561,22 +587,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/ds/common/CommonDS.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.028475711">
-          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
-          <folding>
-            <marker date="1479672639183" expanded="true" signature="1897:1958" placeholder="select * fro..${$this-&gt;table}..." />
-            <marker date="1479672639183" expanded="true" signature="2010:2046" placeholder="select * fro..${$this-&gt;table}..." />
-            <marker date="1479672639183" expanded="true" signature="4426:4474" placeholder="SELECT id FR..${$this-&gt;table}..." />
-            <marker date="1479672639183" expanded="true" signature="4788:4826" placeholder="select * fro..${$this-&gt;table}..." />
-            <marker date="1479672639183" expanded="true" signature="5260:5314" placeholder="UPDATE ${$th..." />
-            <marker date="1479672639183" expanded="true" signature="5713:5770" placeholder="INSERT INTO ${$this-&gt;table}..." />
-            <marker date="1479672639183" expanded="true" signature="6949:6986" placeholder="delete from ..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/ds/CitizenDS.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.028475711">
@@ -586,24 +596,6 @@
             <marker date="1479549162912" expanded="true" signature="3342:3401" placeholder="select * fro..${$this-&gt;table}..." />
             <marker date="1479549162912" expanded="true" signature="3611:3645" placeholder="delete from ..." />
             <marker date="1479549162912" expanded="true" signature="4034:4109" placeholder="update ${$th..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/ds/SubCatProductsDS.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.17085427">
-          <caret line="26" column="40" selection-start-line="26" selection-start-column="40" selection-end-line="26" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/ds/CatProductsDS.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.599665">
-          <caret line="34" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
-          <folding>
-            <marker date="1479691509235" expanded="true" signature="1051:1097" placeholder="update ${$th..." />
           </folding>
         </state>
       </provider>
@@ -806,20 +798,54 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/page/dashboard.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.384615">
-          <caret line="96" column="39" selection-start-line="96" selection-start-column="37" selection-end-line="96" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.36515912">
           <caret line="188" column="58" selection-start-line="188" selection-start-column="50" selection-end-line="188" selection-end-column="58" />
           <folding>
             <element signature="e#9562#9582#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/page/dashboard.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.36515912">
+          <caret line="96" column="39" selection-start-line="96" selection-start-column="37" selection-end-line="96" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/ds/common/CommonDS.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33613446">
+          <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <folding>
+            <marker date="1479672639183" expanded="true" signature="1897:1958" placeholder="select * fro..${$this-&gt;table}..." />
+            <marker date="1479672639183" expanded="true" signature="2010:2046" placeholder="select * fro..${$this-&gt;table}..." />
+            <marker date="1479672639183" expanded="true" signature="4426:4474" placeholder="SELECT id FR..${$this-&gt;table}..." />
+            <marker date="1479672639183" expanded="true" signature="4788:4826" placeholder="select * fro..${$this-&gt;table}..." />
+            <marker date="1479672639183" expanded="true" signature="5260:5314" placeholder="UPDATE ${$th..." />
+            <marker date="1479672639183" expanded="true" signature="5713:5770" placeholder="INSERT INTO ${$this-&gt;table}..." />
+            <marker date="1479672639183" expanded="true" signature="6949:6986" placeholder="delete from ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/ds/SubCatProductsDS.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.1153846">
+          <caret line="33" column="24" selection-start-line="33" selection-start-column="24" selection-end-line="33" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/ds/CatProductsDS.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding>
+            <marker date="1479747264982" expanded="true" signature="1052:1098" placeholder="update ${$th..." />
           </folding>
         </state>
       </provider>
